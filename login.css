@@ -1,0 +1,9 @@
+body{
+    background-image:url(./Login.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: ' Calibri ';
+    background-color: skyblue;
+    text-align: center;
+    color:white
+}
